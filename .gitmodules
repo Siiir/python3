@@ -1,0 +1,9 @@
+[submodule "bernoulli"]
+	path = bernoulli
+	url = git@github.com:Siiir/bernoulli.git
+[submodule "drawing_algorithms"]
+	path = drawing_algorithms
+	url = git@github.com:Siiir/python3-drawing_algorithms.git
+[submodule "polynomials"]
+	path = polynomials
+	url = git@github.com:Siiir/python3-polynomials.git
