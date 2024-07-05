@@ -14,8 +14,7 @@ My most **interesting** & **creative** calculator using **my own optimizations**
 ### [🎨 Drawing Algorithms](https://github.com/Siiir/python3-drawing_algorithms)
 Algorithms written for a competition in Computer Science. They produce **complex geometrical shapes**. The underlying procedures take different parameters to create various patterns.
 
-<img style="float: none; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Dywan/Cover.png"/>
-<img style="float: none; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Mozaika/Cover.png"/>
+<img style="float: none; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Dywan/Cover.png"/><img style="float: none; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Mozaika/Cover.png"/>
 
 ### [🧮 Polynomials](https://github.com/Siiir/polynomials)
 A library facilitating polynomial operations and display. The `polynomial` class inherits most properties of the `list` but is indexed differently. It also includes custom methods and overloads.
