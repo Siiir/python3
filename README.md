@@ -2,20 +2,20 @@
 
 Python2 was my first programming language to learn (~2018 AD). Around 2019/2020, I transitioned to Python 3.8 and started to create my own projects.
 
+
 ## 📚 Contents
-
-
-<img style="float: right; width: 80px;" src="https://github.com/Siiir/Bernoulli/raw/master/Bernoulli_using_bernoulli.png"/>
 
 ### [🔢 Bernoulli](https://github.com/Siiir/Bernoulli)
 My most **interesting** & **creative** calculator using **my own optimizations**. It performs **advanced math INCREDIBLY FAST** and is specialized in partial sums.
 
+<img style="float: none; width: 80px;" src="https://github.com/Siiir/Bernoulli/raw/master/Bernoulli_using_bernoulli.png"/>
 
-<img style="float: right; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Dywan/Cover.png"/>
-<img style="float: right; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Mozaika/Cover.png"/>
 
 ### [🎨 Drawing Algorithms](https://github.com/Siiir/python3-drawing_algorithms)
-Algorithms written for a competition in Computer Science. These solutions produce **complex geometrical shapes** using Python3's `turtle` library. The underlying procedures take different parameters to create various patterns.
+Algorithms written for a competition in Computer Science. They produce **complex geometrical shapes**. The underlying procedures take different parameters to create various patterns.
+
+<img style="float: none; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Dywan/Cover.png"/>
+<img style="float: none; width: 80px;" src="https://github.com/Siiir/python3-drawing_algorithms/raw/stable/Mozaika/Cover.png"/>
 
 ### [🧮 Polynomials](https://github.com/Siiir/polynomials)
 A library facilitating polynomial operations and display. The `polynomial` class inherits most properties of the `list` but is indexed differently. It also includes custom methods and overloads.
