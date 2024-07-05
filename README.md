@@ -10,6 +10,9 @@ My most **interesting** & **creative** calculator using **my own optimizations**
 
 <img style="float: none; width: 80px;" src="https://github.com/Siiir/Bernoulli/raw/master/Bernoulli_using_bernoulli.png"/>
 
+### [📜 Scripts](https://github.com/Siiir/python3-scripts)
+My Python3 Script Collection.
+This repository houses a variety of powerful, efficient, and easy-to-use Python scripts for handling different tasks.
 
 ### [🎨 Drawing Algorithms](https://github.com/Siiir/python3-drawing_algorithms)
 Algorithms written for a competition in Computer Science. They produce **complex geometrical shapes**. The underlying procedures take different parameters to create various patterns.
