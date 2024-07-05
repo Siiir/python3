@@ -7,3 +7,6 @@
 [submodule "polynomials"]
 	path = polynomials
 	url = git@github.com:Siiir/python3-polynomials.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:Siiir/python3-scripts.git
